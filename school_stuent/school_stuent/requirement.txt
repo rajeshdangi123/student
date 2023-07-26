@@ -1,0 +1,10 @@
+His todays task is to create a "School" model in existing project. 
+The School model should have at least 5 fields, 
+There should be foreign key relationship between Student and School model.
+Additionally, he need to create an API endpoint that retrieves both student 
+and school details at once using a single serializer.
+
+project setting.py file install app and rest_framework
+create data base table in modal and register in admin class name 
+use  command  makemigrations and migrate 
+project urls.py include path use router and viewset 
